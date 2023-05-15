@@ -1,0 +1,302 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="2860px" height="3760px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<polygon points="50,100 50,200 130,200 130,750 240,750 240,3675 435,3675 435,3750 600,3750 2460,3750 2460,3675 600,3675 525,3675 525,3675 525,3600 525,875 600,875 600,975 765,975 765,3500 875,3500 875,3600 1155,3600 2460,3600 2460,3500 1155,3500 1055,3500 1055,3500 1055,3400 1055,1175 1155,1175 1155,2400 1375,2400 1375,2975 1595,2975 1595,3125 1760,3125 1760,3350 1925,3350 1925,3400 2090,3400 2460,3400 2460,3350 2090,3350 2015,3350 2015,3350 2015,3275 2015,3225 2090,3225 2090,3275 2200,3275 2460,3275 2460,3225 2200,3225 2150,3225 2150,3225 2150,3175 2150,3175 2200,3175 2460,3175 2460,3125 2200,3125 2090,3125 2090,3175 1925,3175 1925,3275 1850,3275 1850,3125 1850,3050 1850,3050 1925,3050 2460,3050 2460,2975 1925,2975 1760,2975 1760,3050 1685,3050 1685,2975 1685,2900 1685,2725 1760,2725 1760,2850 2010,2850 2010,2900 2175,2900 2460,2900 2460,2850 2175,2850 2100,2850 2100,2850 2100,2775 2100,2775 2175,2775 2460,2775 2460,2725 2175,2725 2010,2725 2010,2775 1910,2775 1910,2725 1910,2625 1910,2550 2010,2550 2010,2625 2175,2625 2460,2625 2460,2550 2175,2550 2100,2550 2100,2550 2100,2475 2100,2475 2175,2475 2460,2475 2460,2400 2175,2400 2010,2400 2010,2475 1760,2475 1760,2625 1595,2625 1595,2900 1495,2900 1495,2400 1495,2300 1495,1950 1595,1950 1595,2050 1760,2050 1760,2250 1870,2250 1870,2300 1980,2300 2460,2300 2460,2250 1980,2250 1930,2250 1930,2250 1930,2200 1930,2150 1980,2150 1980,2200 2090,2200 2460,2200 2460,2150 2090,2150 2040,2150 2040,2150 2040,2100 2040,2100 2090,2100 2460,2100 2460,2050 2090,2050 1980,2050 1980,2100 1870,2100 1870,2200 1820,2200 1820,2050 1820,2000 1820,2000 1870,2000 2460,2000 2460,1950 1870,1950 1760,1950 1760,2000 1685,2000 1685,1950 1685,1875 1685,1275 1760,1275 1760,1625 1870,1625 1870,1800 2150,1800 2150,1875 2370,1875 2460,1875 2460,1800 2370,1800 2270,1800 2270,1800 2270,1700 2270,1700 2370,1700 2460,1700 2460,1625 2370,1625 2150,1625 2150,1700 2050,1700 2050,1625 2050,1525 2050,1450 2150,1450 2150,1525 2370,1525 2460,1525 2460,1450 2370,1450 2270,1450 2270,1450 2270,1350 2270,1350 2370,1350 2460,1350 2460,1275 2370,1275 2150,1275 2150,1350 1870,1350 1870,1525 1820,1525 1820,1275 1820,1225 1820,1225 1870,1225 2460,1225 2460,1175 1870,1175 1760,1175 1760,1225 1595,1225 1595,1875 1375,1875 1375,2300 1275,2300 1275,1175 1275,1075 1275,1075 1375,1075 2460,1075 2460,975 1375,975 1155,975 1155,1075 875,1075 875,3400 825,3400 825,975 825,925 825,925 875,925 2460,925 2460,875 875,875 765,875 765,925 690,925 690,875 690,800 690,800 765,800 2460,800 2460,750 765,750 600,750 600,800 435,800 435,3600 360,3600 360,750 360,675 360,325 435,325 435,425 600,425 600,525 710,525 710,625 820,625 820,675 930,675 2460,675 2460,625 930,625 880,625 880,625 880,575 880,575 930,575 2460,575 2460,525 930,525 820,525 820,575 770,575 770,525 770,475 770,475 820,475 2460,475 2460,425 820,425 710,425 710,475 660,475 660,425 660,375 660,375 710,375 2460,375 2460,325 710,325 600,325 600,375 525,375 525,325 525,250 525,250 600,250 2460,250 2460,200 600,200 435,200 435,250 240,250 240,675 190,675 190,200 190,150 190,150 240,150 2460,150 2460,100 240,100 130,100 130,150 80,150 80,100 80,50 80,200 130,200 130,750 240,750 240,3675 435,3675 435,3750 600,3750 2460,3750 2460,3675 600,3675 525,3675 525,3675 525,3600 525,875 600,875 600,975 765,975 765,3500 875,3500 875,3600 1155,3600 2460,3600 2460,3500 1155,3500 1055,3500 1055,3500 1055,3400 1055,1175 1155,1175 1155,2400 1375,2400 1375,2975 1595,2975 1595,3125 1760,3125 1760,3350 1925,3350 1925,3400 2090,3400 2460,3400 2460,3350 2090,3350 2015,3350 2015,3350 2015,3275 2015,3225 2090,3225 2090,3275 2200,3275 2460,3275 2460,3225 2200,3225 2150,3225 2150,3225 2150,3175 2150,3175 2200,3175 2460,3175 2460,3125 2200,3125 2090,3125 2090,3175 1925,3175 1925,3275 1850,3275 1850,3125 1850,3050 1850,3050 1925,3050 2460,3050 2460,2975 1925,2975 1760,2975 1760,3050 1685,3050 1685,2975 1685,2900 1685,2725 1760,2725 1760,2850 2010,2850 2010,2900 2175,2900 2460,2900 2460,2850 2175,2850 2100,2850 2100,2850 2100,2775 2100,2775 2175,2775 2460,2775 2460,2725 2175,2725 2010,2725 2010,2775 1910,2775 1910,2725 1910,2625 1910,2550 2010,2550 2010,2625 2175,2625 2460,2625 2460,2550 2175,2550 2100,2550 2100,2550 2100,2475 2100,2475 2175,2475 2460,2475 2460,2400 2175,2400 2010,2400 2010,2475 1760,2475 1760,2625 1595,2625 1595,2900 1495,2900 1495,2400 1495,2300 1495,1950 1595,1950 1595,2050 1760,2050 1760,2250 1870,2250 1870,2300 1980,2300 2460,2300 2460,2250 1980,2250 1930,2250 1930,2250 1930,2200 1930,2150 1980,2150 1980,2200 2090,2200 2460,2200 2460,2150 2090,2150 2040,2150 2040,2150 2040,2100 2040,2100 2090,2100 2460,2100 2460,2050 2090,2050 1980,2050 1980,2100 1870,2100 1870,2200 1820,2200 1820,2050 1820,2000 1820,2000 1870,2000 2460,2000 2460,1950 1870,1950 1760,1950 1760,2000 1685,2000 1685,1950 1685,1875 1685,1275 1760,1275 1760,1625 1870,1625 1870,1800 2150,1800 2150,1875 2370,1875 2460,1875 2460,1800 2370,1800 2270,1800 2270,1800 2270,1700 2270,1700 2370,1700 2460,1700 2460,1625 2370,1625 2150,1625 2150,1700 2050,1700 2050,1625 2050,1525 2050,1450 2150,1450 2150,1525 2370,1525 2460,1525 2460,1450 2370,1450 2270,1450 2270,1450 2270,1350 2270,1350 2370,1350 2460,1350 2460,1275 2370,1275 2150,1275 2150,1350 1870,1350 1870,1525 1820,1525 1820,1275 1820,1225 1820,1225 1870,1225 2460,1225 2460,1175 1870,1175 1760,1175 1760,1225 1595,1225 1595,1875 1375,1875 1375,2300 1275,2300 1275,1175 1275,1075 1275,1075 1375,1075 2460,1075 2460,975 1375,975 1155,975 1155,1075 875,1075 875,3400 825,3400 825,975 825,925 825,925 875,925 2460,925 2460,875 875,875 765,875 765,925 690,925 690,875 690,800 690,800 765,800 2460,800 2460,750 765,750 600,750 600,800 435,800 435,3600 360,3600 360,750 360,675 360,325 435,325 435,425 600,425 600,525 710,525 710,625 820,625 820,675 930,675 2460,675 2460,625 930,625 880,625 880,625 880,575 880,575 930,575 2460,575 2460,525 930,525 820,525 820,575 770,575 770,525 770,475 770,475 820,475 2460,475 2460,425 820,425 710,425 710,475 660,475 660,425 660,375 660,375 710,375 2460,375 2460,325 710,325 600,325 600,375 525,375 525,325 525,250 525,250 600,250 2460,250 2460,200 600,200 435,200 435,250 240,250 240,675 190,675 190,200 190,150 190,150 240,150 2460,150 2460,100 240,100 130,100 130,150 50,150 50,50 " fill="rgb(255,255,255)" stroke-width="10" stroke="rgb(120,120,120)" />
+	<text x="2213" y="3657" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Latimeria_chalumnae</text>
+	<text x="2200" y="3482" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Dasypus_novemcinctus</text>
+	<text x="2317" y="3332" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Felis_catus</text>
+	<text x="2239" y="3207" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Canis_lupus_dingo</text>
+	<text x="2265" y="3107" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Ursus_maritimus</text>
+	<text x="2291" y="2957" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Sorex_araneus</text>
+	<text x="2252" y="2832" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Physeter_catodon</text>
+	<text x="2226" y="2707" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Tursiops_truncatus</text>
+	<text x="2330" y="2532" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Ovis_aries</text>
+	<text x="2330" y="2382" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Sus_scrofa</text>
+	<text x="2304" y="2232" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Pongo_abelii</text>
+	<text x="2265" y="2132" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Pan_troglodytes</text>
+	<text x="2304" y="2032" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Homo_sapiens</text>
+	<text x="2278" y="1932" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Macaca_fuscata</text>
+	<text x="2213" y="1782" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Chinchilla_lanigera</text>
+	<text x="2265" y="1607" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Dipodomys_ordii</text>
+	<text x="2252" y="1432" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Sciurus_vulgaris</text>
+	<text x="2239" y="1257" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Rattus_norvegicus</text>
+	<text x="2187" y="1157" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Oryctolagus_cuniculus</text>
+	<text x="2265" y="957" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Elephas_maximus</text>
+	<text x="2200" y="857" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Sarcophilus_harrisii</text>
+	<text x="2343" y="732" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Naja_naja</text>
+	<text x="2213" y="607" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Poecilia_reticulata</text>
+	<text x="2174" y="507" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Cynoglossus_semilaevis</text>
+	<text x="2304" y="407" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Gadus_morhua</text>
+	<text x="2200" y="307" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Scleropages_formosus</text>
+	<text x="2135" y="182" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Erpetoichthys_calabaricus</text>
+	<text x="2213" y="82" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >Callorhinchus_milii</text>
+	<line x1="160" y1="175" x2="160" y2="725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="160" y1="725" x2="270" y2="725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="270" y1="725" x2="270" y2="700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="270" y1="700" x2="300" y2="700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="700" x2="300" y2="275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="275" x2="465" y2="275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="275" x2="465" y2="225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="225" x2="2460" y2="225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="225" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >reedfish</text>
+	<line x1="465" y1="275" x2="465" y2="400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="400" x2="630" y2="400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="630" y1="400" x2="630" y2="350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="630" y1="350" x2="2460" y2="350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="350" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >asian</text>
+	<line x1="630" y1="400" x2="630" y2="500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="630" y1="500" x2="740" y2="500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="740" y1="500" x2="740" y2="600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="740" y1="600" x2="850" y2="600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="850" y1="600" x2="850" y2="650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="850" y1="650" x2="2460" y2="650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="650" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >guppy</text>
+	<line x1="850" y1="600" x2="850" y2="550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="850" y1="550" x2="2460" y2="550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="550" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >tongue</text>
+	<line x1="740" y1="500" x2="740" y2="450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="740" y1="450" x2="2460" y2="450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="450" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >atlantic</text>
+	<line x1="300" y1="700" x2="300" y2="3625" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="3625" x2="465" y2="3625" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="3625" x2="465" y2="3700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="3700" x2="2460" y2="3700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3700" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >coelacanth</text>
+	<line x1="465" y1="3625" x2="465" y2="825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="465" y1="825" x2="630" y2="825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="642.5" y1="812.5" x2="617.5" y2="837.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="642.5" y1="837.5" x2="617.5" y2="812.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="270" y1="725" x2="270" y2="725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="270" y1="725" x2="330" y2="725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="725" x2="330" y2="3650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="3650" x2="495" y2="3650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="3650" x2="495" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="850" x2="660" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="850" x2="660" y2="950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="950" x2="795" y2="950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="795" y1="950" x2="795" y2="3475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="795" y1="3475" x2="905" y2="3475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="905" y1="3475" x2="905" y2="3450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="905" y1="3450" x2="935" y2="3450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="3450" x2="935" y2="3425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="3425" x2="965" y2="3425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="965" y1="3425" x2="965" y2="3525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="965" y1="3525" x2="2460" y2="3525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3525" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >armadillo</text>
+	<line x1="965" y1="3425" x2="965" y2="1100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="965" y1="1100" x2="1185" y2="1100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1185" y1="1100" x2="1185" y2="2325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1185" y1="2325" x2="1405" y2="2325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1405" y1="2325" x2="1405" y2="2925" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1405" y1="2925" x2="1625" y2="2925" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1625" y1="2925" x2="1625" y2="3075" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1625" y1="3075" x2="1790" y2="3075" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="3075" x2="1790" y2="3000" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="3000" x2="2460" y2="3000" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3000" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >shrew</text>
+	<line x1="1790" y1="3075" x2="1790" y2="3300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="3300" x2="1955" y2="3300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1967.5" y1="3287.5" x2="1942.5" y2="3312.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1967.5" y1="3312.5" x2="1942.5" y2="3287.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1625" y1="2925" x2="1625" y2="2650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1625" y1="2650" x2="1790" y2="2650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1802.5" y1="2637.5" x2="1777.5" y2="2662.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1802.5" y1="2662.5" x2="1777.5" y2="2637.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1405" y1="2325" x2="1405" y2="1900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1405" y1="1900" x2="1625" y2="1900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1637.5" y1="1887.5" x2="1612.5" y2="1912.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1637.5" y1="1912.5" x2="1612.5" y2="1887.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1185" y1="1100" x2="1185" y2="1000" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1185" y1="1000" x2="1405" y2="1000" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1417.5" y1="987.5" x2="1392.5" y2="1012.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1417.5" y1="1012.5" x2="1392.5" y2="987.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="3450" x2="935" y2="3450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="3450" x2="995" y2="3450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="995" y1="3450" x2="995" y2="3550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="995" y1="3550" x2="1185" y2="3550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1197.5" y1="3537.5" x2="1172.5" y2="3562.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1197.5" y1="3562.5" x2="1172.5" y2="3537.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="995" y1="3450" x2="995" y2="1125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="995" y1="1125" x2="1215" y2="1125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1215" y1="1125" x2="1215" y2="2350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1215" y1="2350" x2="1435" y2="2350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1435" y1="2350" x2="1435" y2="2950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1435" y1="2950" x2="1655" y2="2950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="2950" x2="1655" y2="2700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="2700" x2="1820" y2="2700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="2700" x2="1820" y2="2675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="2675" x2="1850" y2="2675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1850" y1="2675" x2="1850" y2="2800" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1850" y1="2800" x2="2040" y2="2800" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2800" x2="2040" y2="2750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2750" x2="2460" y2="2750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2750" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >dolphin</text>
+	<line x1="2040" y1="2800" x2="2040" y2="2875" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2875" x2="2460" y2="2875" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2875" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >sperm</text>
+	<line x1="1850" y1="2675" x2="1850" y2="2500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1850" y1="2500" x2="2040" y2="2500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2500" x2="2040" y2="2575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2575" x2="2460" y2="2575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2575" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >sheep</text>
+	<line x1="2040" y1="2500" x2="2040" y2="2425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2040" y1="2425" x2="2205" y2="2425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2217.5" y1="2412.5" x2="2192.5" y2="2437.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2217.5" y1="2437.5" x2="2192.5" y2="2412.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="2700" x2="1820" y2="2700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="2700" x2="1880" y2="2700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1880" y1="2700" x2="1880" y2="2825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1880" y1="2825" x2="2070" y2="2825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2082.5" y1="2812.5" x2="2057.5" y2="2837.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2082.5" y1="2837.5" x2="2057.5" y2="2812.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1880" y1="2700" x2="1880" y2="2525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1880" y1="2525" x2="2070" y2="2525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2070" y1="2525" x2="2070" y2="2450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2070" y1="2450" x2="2460" y2="2450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2450" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >pig</text>
+	<line x1="2070" y1="2525" x2="2070" y2="2600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2070" y1="2600" x2="2205" y2="2600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2217.5" y1="2587.5" x2="2192.5" y2="2612.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2217.5" y1="2612.5" x2="2192.5" y2="2587.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="1807.5" y="2687.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="2950" x2="1655" y2="3100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="3100" x2="1820" y2="3100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="3100" x2="1820" y2="3325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="3325" x2="1985" y2="3325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1985" y1="3325" x2="1985" y2="3375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1985" y1="3375" x2="2460" y2="3375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3375" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >cat</text>
+	<line x1="1985" y1="3325" x2="1985" y2="3200" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1985" y1="3200" x2="2120" y2="3200" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2120" y1="3200" x2="2120" y2="3150" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2120" y1="3150" x2="2460" y2="3150" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3150" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >polar</text>
+	<line x1="2120" y1="3200" x2="2120" y2="3250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2120" y1="3250" x2="2460" y2="3250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="3250" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >dingo</text>
+	<line x1="1820" y1="3100" x2="1820" y2="3025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1820" y1="3025" x2="1955" y2="3025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1967.5" y1="3012.5" x2="1942.5" y2="3037.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1967.5" y1="3037.5" x2="1942.5" y2="3012.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1435" y1="2350" x2="1435" y2="1925" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1435" y1="1925" x2="1655" y2="1925" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="1925" x2="1655" y2="2025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="2025" x2="1790" y2="2025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="2025" x2="1790" y2="1975" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="1975" x2="2460" y2="1975" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1975" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >macaque</text>
+	<line x1="1790" y1="2025" x2="1790" y2="2225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="2225" x2="1900" y2="2225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="2225" x2="1900" y2="2125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="2125" x2="2010" y2="2125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2010" y1="2125" x2="2010" y2="2075" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2010" y1="2075" x2="2460" y2="2075" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2075" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >human</text>
+	<line x1="2010" y1="2125" x2="2010" y2="2175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2010" y1="2175" x2="2460" y2="2175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2175" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >chimpanzee</text>
+	<line x1="1900" y1="2225" x2="1900" y2="2275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="2275" x2="2460" y2="2275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="2275" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >orangutan</text>
+	<line x1="1655" y1="1925" x2="1655" y2="1250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1655" y1="1250" x2="1790" y2="1250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="1250" x2="1790" y2="1200" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="1200" x2="2460" y2="1200" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1200" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >rabbit</text>
+	<line x1="1790" y1="1250" x2="1790" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1790" y1="1600" x2="1900" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="1600" x2="1900" y2="1575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="1575" x2="1930" y2="1575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1930" y1="1575" x2="1930" y2="1550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1930" y1="1550" x2="1960" y2="1550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1960" y1="1550" x2="1960" y2="1725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1960" y1="1725" x2="2180" y2="1725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1725" x2="2180" y2="1650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1650" x2="2460" y2="1650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1650" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >kangaroo</text>
+	<line x1="2180" y1="1725" x2="2180" y2="1825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1825" x2="2400" y2="1825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1812.5" x2="2387.5" y2="1837.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1837.5" x2="2387.5" y2="1812.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1960" y1="1550" x2="1960" y2="1375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1960" y1="1375" x2="2180" y2="1375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1375" x2="2180" y2="1300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1300" x2="2460" y2="1300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1300" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >rat</text>
+	<line x1="2180" y1="1375" x2="2180" y2="1475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2180" y1="1475" x2="2400" y2="1475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1462.5" x2="2387.5" y2="1487.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1487.5" x2="2387.5" y2="1462.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1930" y1="1575" x2="1930" y2="1575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1930" y1="1575" x2="1990" y2="1575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1990" y1="1575" x2="1990" y2="1750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1990" y1="1750" x2="2210" y2="1750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2210" y1="1750" x2="2210" y2="1850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2210" y1="1850" x2="2460" y2="1850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1850" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >chinchilla</text>
+	<line x1="2210" y1="1750" x2="2210" y2="1675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2210" y1="1675" x2="2400" y2="1675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1662.5" x2="2387.5" y2="1687.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1687.5" x2="2387.5" y2="1662.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1990" y1="1575" x2="1990" y2="1400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1990" y1="1400" x2="2210" y2="1400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2222.5" y1="1387.5" x2="2197.5" y2="1412.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2222.5" y1="1412.5" x2="2197.5" y2="1387.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="1917.5" y="1562.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="1600" x2="1900" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1900" y1="1600" x2="2020" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2020" y1="1600" x2="2020" y2="1775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2020" y1="1775" x2="2240" y2="1775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2252.5" y1="1762.5" x2="2227.5" y2="1787.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2252.5" y1="1787.5" x2="2227.5" y2="1762.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2020" y1="1600" x2="2020" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2020" y1="1425" x2="2240" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2240" y1="1425" x2="2240" y2="1500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2240" y1="1500" x2="2460" y2="1500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1500" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >red</text>
+	<line x1="2240" y1="1425" x2="2240" y2="1325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2240" y1="1325" x2="2400" y2="1325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1312.5" x2="2387.5" y2="1337.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="2412.5" y1="1337.5" x2="2387.5" y2="1312.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="1887.5" y="1587.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1215" y1="1125" x2="1215" y2="1025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1215" y1="1025" x2="1435" y2="1025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1447.5" y1="1012.5" x2="1422.5" y2="1037.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1447.5" y1="1037.5" x2="1422.5" y2="1012.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="922.5" y="3437.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="905" y1="3475" x2="905" y2="3475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="905" y1="3475" x2="1025" y2="3475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1025" y1="3475" x2="1025" y2="3575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1025" y1="3575" x2="1215" y2="3575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1227.5" y1="3562.5" x2="1202.5" y2="3587.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1227.5" y1="3587.5" x2="1202.5" y2="3562.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1025" y1="3475" x2="1025" y2="1150" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1025" y1="1150" x2="1245" y2="1150" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1245" y1="1150" x2="1245" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1245" y1="1050" x2="2460" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="1050" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >elephant</text>
+	<line x1="1245" y1="1150" x2="1245" y2="2375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1245" y1="2375" x2="1465" y2="2375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1477.5" y1="2362.5" x2="1452.5" y2="2387.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="1477.5" y1="2387.5" x2="1452.5" y2="2362.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="892.5" y="3462.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="795" y1="950" x2="795" y2="900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="795" y1="900" x2="2460" y2="900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="900" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >tasmanian</text>
+	<line x1="660" y1="850" x2="660" y2="775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="775" x2="2460" y2="775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="775" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >indian</text>
+	<line x1="495" y1="3650" x2="495" y2="3725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="3725" x2="630" y2="3725" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="642.5" y1="3712.5" x2="617.5" y2="3737.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="642.5" y1="3737.5" x2="617.5" y2="3712.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="725" x2="330" y2="300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="300" x2="495" y2="300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="507.5" y1="287.5" x2="482.5" y2="312.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="507.5" y1="312.5" x2="482.5" y2="287.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="257.5" y="712.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="160" y1="175" x2="160" y2="125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="160" y1="125" x2="2460" y2="125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="2485" y="125" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >elephant_shark</text>
+	<polygon points="175.625,175 166.32,170.408 164.828,160.14 157.586,167.57 147.359,165.816 152.188,175 147.359,184.184 157.586,182.43 164.828,189.86 166.32,179.592 175.625,175 " fill="rgb(255,255,255)" stroke-width="6.25" stroke="rgb(65,170,190)" />
+</svg>
